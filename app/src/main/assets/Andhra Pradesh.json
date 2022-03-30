@@ -1,0 +1,92 @@
+{
+  "Andhra Pradesh": [
+    {
+      "disName": "Adilabad",
+      "disCode": "1586"
+    },
+    {
+      "disName": "Anantapur",
+      "disCode": "925"
+    },
+    {
+      "disName": "Chittoor",
+      "disCode": "1480"
+    },
+    {
+      "disName": "Cuddapah",
+      "disCode": "876"
+    },
+    {
+      "disName": "East Godavari",
+      "disCode": "1323"
+    },
+    {
+      "disName": "Guntur",
+      "disCode": "694"
+    },
+    {
+      "disName": "Karimnagar",
+      "disCode": "1047"
+    },
+    {
+      "disName": "Khammam",
+      "disCode": "1101"
+    },
+    {
+      "disName": "Krishna",
+      "disCode": "948"
+    },
+    {
+      "disName": "Kurnool",
+      "disCode": "884"
+    },
+    {
+      "disName": "Mahbubnagar",
+      "disCode": "1477"
+    },
+    {
+      "disName": "Medak",
+      "disCode": "1225"
+    },
+    {
+      "disName": "Nalgonda",
+      "disCode": "1124"
+    },
+    {
+      "disName": "Nellore",
+      "disCode": "1110"
+    },
+    {
+      "disName": "Nizamabad",
+      "disCode": "854"
+    },
+    {
+      "disName": "Prakasam",
+      "disCode": "992"
+    },
+    {
+      "disName": "Rangareddi",
+      "disCode": "860"
+    },
+    {
+      "disName": "Srikakulam",
+      "disCode": "1715"
+    },
+    {
+      "disName": "Visakhapatnam",
+      "disCode": "3108"
+    },
+    {
+      "disName": "Vizianagaram",
+      "disCode": "1455"
+    },
+    {
+      "disName": "Warangal",
+      "disCode": "984"
+    },
+    {
+      "disName": "West Godavari",
+      "disCode": "845"
+    }
+  ]
+}

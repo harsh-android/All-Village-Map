@@ -1,0 +1,104 @@
+{
+  "Gujarat": [
+    {
+      "disName": "Ahmadabad",
+      "disCode": "546"
+    },
+    {
+      "disName": "Amreli",
+      "disCode": "615"
+    },
+    {
+      "disName": "Anand",
+      "disCode": "350"
+    },
+    {
+      "disName": "Banas Kantha",
+      "disCode": "1244"
+    },
+    {
+      "disName": "Bharuch",
+      "disCode": "657"
+    },
+    {
+      "disName": "Bhavnagar",
+      "disCode": "790"
+    },
+    {
+      "disName": "Dohad",
+      "disCode": "693"
+    },
+    {
+      "disName": "Gandhinagar",
+      "disCode": "291"
+    },
+    {
+      "disName": "Jamnagar",
+      "disCode": "698"
+    },
+    {
+      "disName": "Junagadh",
+      "disCode": "923"
+    },
+    {
+      "disName": "Kachchh",
+      "disCode": "886"
+    },
+    {
+      "disName": "Kheda",
+      "disCode": "612"
+    },
+    {
+      "disName": "Mahesana",
+      "disCode": "593"
+    },
+    {
+      "disName": "Narmada",
+      "disCode": "552"
+    },
+    {
+      "disName": "Navsari",
+      "disCode": "374"
+    },
+    {
+      "disName": "Panch Mahals",
+      "disCode": "1201"
+    },
+    {
+      "disName": "Patan",
+      "disCode": "517"
+    },
+    {
+      "disName": "Porbandar",
+      "disCode": "182"
+    },
+    {
+      "disName": "Rajkot",
+      "disCode": "844"
+    },
+    {
+      "disName": "Sabar Kantha",
+      "disCode": "1372"
+    },
+    {
+      "disName": "Surat",
+      "disCode": "1167"
+    },
+    {
+      "disName": "Surendranagar",
+      "disCode": "650"
+    },
+    {
+      "disName": "The Dangs",
+      "disCode": "311"
+    },
+    {
+      "disName": "Vadodara",
+      "disCode": "1548"
+    },
+    {
+      "disName": "Valsad",
+      "disCode": "450"
+    }
+  ]
+}

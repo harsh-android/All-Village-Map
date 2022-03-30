@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.appstudio.map.liveallvillagemap">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"></uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"></uses-permission>
+
+
+    <application
+        android:name=".MyApp"
+        android:allowBackup="true"
+        android:icon="@mipmap/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.appstudio.map.liveallvillagemap.SpleshActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.appstudio.map.liveallvillagemap.StartActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.appstudio.map.liveallvillagemap.CityActivity"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name="com.appstudio.map.liveallvillagemap.AboutActivity"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name="com.appstudio.map.liveallvillagemap.SubDistrictActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.appstudio.map.liveallvillagemap.privacy_policyactivity"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name="com.appstudio.map.liveallvillagemap.test_village"
+            android:screenOrientation="portrait" />
+
+        <!-- Facebook Ads start -->
+        <activity
+            android:name="com.facebook.ads.AudienceNetworkActivity"
+            android:hardwareAccelerated="true" />
+        <!-- Facebook Ads end -->
+
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-5951259879389746~6474607307" />
+
+    </application>
+
+</manifest>

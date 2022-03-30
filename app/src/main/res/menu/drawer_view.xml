@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Dashboard"
+            android:fontFamily="@font/my_font"
+            android:icon="@drawable/home"
+            android:title="Dashboard" />
+
+        <item
+            android:id="@+id/AboutUs"
+            android:fontFamily="@font/my_font"
+            android:icon="@drawable/about_us"
+            android:title="About Us" />
+
+        <item
+            android:id="@+id/ShareApp"
+            android:fontFamily="@font/my_font"
+            android:icon="@drawable/share_app"
+            android:title="Share App" />
+
+
+        <item
+            android:id="@+id/RateApp"
+            android:fontFamily="@font/my_font"
+            android:icon="@drawable/rate_us"
+            android:title="Rate App" />
+
+        <item
+            android:id="@+id/MoreApp"
+            android:fontFamily="@font/my_font"
+            android:icon="@drawable/more_app"
+            android:title="More App" />
+
+        <item
+            android:id="@+id/PrivacyPolicy"
+            android:fontFamily="@font/my_font"
+            android:icon="@drawable/privacy_policy"
+            android:title="Privacy Policy" />
+
+
+
+    </group>
+
+
+</menu>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Live All Village Map</string>
+    <string name="search">Sreach</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="app_banner_id">ca-app-pub-5951259879389746/4969953944</string>
+    <string name="app_instaratial_id">ca-app-pub-5951259879389746/9044930322</string>
+    <string name="app_video_id">ca-app-pub-5951259879389746/3273728890</string>
+    <string name="aboutapp">Version</string>
+    <string name="appvirsion">2.1</string>
+
+</resources>

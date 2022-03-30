@@ -1,0 +1,56 @@
+{
+  "Arunachal Pradesh": [
+    {
+      "disName": "Changlang",
+      "disCode": "336"
+    },
+    {
+      "disName": "Dibang Valley",
+      "disCode": "213"
+    },
+    {
+      "disName": "East Kameng",
+      "disCode": "310"
+    },
+    {
+      "disName": "East Siang",
+      "disCode": "144"
+    },
+    {
+      "disName": "Lohit",
+      "disCode": "493"
+    },
+    {
+      "disName": "Lower Subansiri",
+      "disCode": "652"
+    },
+    {
+      "disName": "Papum Pare",
+      "disCode": "267"
+    },
+    {
+      "disName": "Tawang",
+      "disCode": "180"
+    },
+    {
+      "disName": "Tirap",
+      "disCode": "167"
+    },
+    {
+      "disName": "Upper Siang",
+      "disCode": "92"
+    },
+    {
+      "disName": "Upper Subansiri",
+      "disCode": "398"
+    },
+    {
+      "disName": "West Kameng",
+      "disCode": "213"
+    },
+    {
+      "disName": "West Siang",
+      "disCode": "398"
+    }
+  ]
+}

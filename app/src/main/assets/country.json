@@ -1,0 +1,179 @@
+{
+  "Country": [
+    {
+      "stateName": "Andaman and Nicobar Islands",
+      "stateCode": "501",
+      "pic": "https://i.ytimg.com/vi/EEXk1ZXAfwY/maxresdefault.jpg"
+    },
+    {
+      "stateName": "Andhra Pradesh",
+      "stateCode": "26613",
+      "pic":"https://www.mapsofindia.com/maps/andhrapradesh/andhrapradesh-district-map.jpg"
+    },
+    {
+      "stateName": "Arunachal Pradesh",
+      "stateCode": "3863",
+      "pic": "https://www.mapsofindia.com/maps/arunachalpradesh/arunachal-pradesh-district-map.jpg"
+    },
+    {
+      "stateName": "Assam",
+      "stateCode": "25124",
+      "pic" :"https://www.mapsofindia.com/maps/assam/assam-map.jpg"
+    },
+    {
+      "stateName": "Bihar",
+      "stateCode": "39018",
+      "pic" :"https://www.mapsofindia.com/maps/bihar/bihar-map.jpg"
+    },
+    {
+      "stateName": "Chandigarh",
+      "stateCode": "23",
+      "pic" :"https://www.mapsofindia.com/maps/chandigarh/chandigarh-city-map.gif"
+    },
+    {
+      "stateName": "Chhattisgarh",
+      "stateCode": "19744",
+      "pic" :"https://www.mapsofindia.com/maps/chhattisgarh/chhattisgarh-map.jpg"
+    },
+    {
+      "stateName": "Dadra and Nagar Haveli",
+      "stateCode": "70",
+      "pic" :"https://www.mapsofindia.com/maps/dadraandnagarhaveli/dadra-and-nagar-haveli.jpg"
+    },
+    {
+      "stateName": "Daman and Diu",
+      "stateCode": "23",
+      "pic" :"https://www.mapsofindia.com/maps/damananddiu/danam-diu-thumb.jpg"
+    },
+    {
+      "stateName": "Goa",
+      "stateCode": "347",
+      "pic" :"https://www.mapsofindia.com/maps/goa/goa-large-map.jpg"
+    },
+    {
+      "stateName": "Gujarat",
+      "stateCode": "18066",
+      "pic" : "https://www.mapsofindia.com/maps/gujarat/gujarat-map.jpg"
+    },
+    {
+      "stateName": "Haryana",
+      "stateCode": "6764",
+      "pic" :"https://www.mapsofindia.com/maps/haryana/haryana-map.jpg"
+    },
+    {
+      "stateName": "Himachal Pradesh",
+      "stateCode": "17495",
+      "pic" : "https://www.mapsofindia.com/maps/himachalpradesh/himachal-pradesh-map.jpg"
+    },
+    {
+      "stateName": "Jammu and Kashmir",
+      "stateCode": "6417",
+      "pic" :"https://www.mapsofindia.com/maps/jammuandkashmir/jammu-and-kashmir-map.jpg"
+    },
+    {
+      "stateName": "Jharkhand",
+      "stateCode": "29354",
+      "pic" :"https://www.mapsofindia.com/maps/jharkhand/jharkhand-map-district.jpg"
+    },
+    {
+      "stateName": "Karnataka",
+      "stateCode": "27481",
+      "pic" :"https://www.mapsofindia.com/maps/karnataka/karnataka-map.jpg"
+    },
+    {
+      "stateName": "Kerala",
+      "stateCode": "1364",
+      "pic" :"https://www.mapsofindia.com/maps/kerala/kerala-map.jpg"
+    },
+    {
+      "stateName": "Lakshadweep",
+      "stateCode": "8",
+      "pic" :"https://www.mapsofindia.com/maps/lakshadweep/lakshadweep-map.jpg"
+    },
+    {
+      "stateName": "Madhya Pradesh",
+      "stateCode": "52117",
+      "pic" :"https://www.mapsofindia.com/maps/madhyapradesh/madhya-pradesh-district-map.jpg"
+    },
+    {
+      "stateName": "Maharashtra",
+      "stateCode": "41095",
+      "pic" :"https://www.mapsofindia.com/maps/maharashtra/maharashtra-district-map.jpg"
+    },
+    {
+      "stateName": "Manipur",
+      "stateCode": "2199",
+      "pic" :"https://www.mapsofindia.com/maps/manipur/manipur-map.jpg"
+    },
+    {
+      "stateName": "Meghalaya",
+      "stateCode": "5782",
+      "pic" :"https://www.mapsofindia.com/maps/meghalaya/meghalaya-map.jpg"
+    },
+    {
+      "stateName": "Mizoram",
+      "stateCode": "707",
+      "pic" :"https://www.mapsofindia.com/maps/mizoram/mizoram-map.jpg"
+    },
+    {
+      "stateName": "Nagaland",
+      "stateCode": "1278",
+      "pic" : "https://www.mapsofindia.com/maps/nagaland/nagaland-map.jpg"
+    },
+    {
+      "stateName": "NCT of Delhi",
+      "stateCode": "158",
+      "pic" :"https://www.mapsofindia.com/delhi/districts/delhi-district-map.jpg"
+    },
+    {
+      "stateName": "Odisha",
+      "stateCode": "47529",
+      "pic" :"https://www.mapsofindia.com/maps/orissa/orissa-district-map.jpg"
+    },
+    {
+      "stateName": "Puducherry",
+      "stateCode": "92",
+      "pic" :"https://www.mapsofindia.com/maps/pondicherry/ut-puducherry-map.jpg"
+    },
+    {
+      "stateName": "Punjab",
+      "stateCode": "12278",
+      "pic" : "https://www.mapsofindia.com/maps/punjab/punjab_map.jpg"
+    },
+    {
+      "stateName": "Rajasthan",
+      "stateCode": "39753",
+      "pic" :"https://www.mapsofindia.com/maps/rajasthan/rajasthan-map.jpg"
+    },
+    {
+      "stateName": "Sikkim",
+      "stateCode": "450",
+      "pic" :"https://www.mapsofindia.com/maps/sikkim/sikkim-map.jpg"
+    },
+    {
+      "stateName": "Tamil Nadu",
+      "stateCode": "15400",
+      "pic" :"https://www.mapsofindia.com/maps/tamilnadu/tamilnadu-map.jpg"
+    },
+    {
+      "stateName": "Tripura",
+      "stateCode": "858",
+      "pic" : "https://www.mapsofindia.com/maps/tripura/tripura-map.jpg"
+    },
+    {
+      "stateName": "Uttar Pradesh",
+      "stateCode": "97936",
+      "pic" :"https://www.mapsofindia.com/maps/uttarpradesh/districts-of-uttar-pradesh.jpg"
+    },
+    {
+      "stateName": "Uttarakhand",
+      "stateCode": "15761",
+      "pic" :"https://www.mapsofindia.com/maps/uttaranchal/uttarakhand-map.jpg"
+    },
+    {
+      "stateName": "West Bengal",
+      "stateCode": "37955",
+      "pic" :"https://www.mapsofindia.com/maps/westbengal/westbengal-map.jpg"
+    }
+  ]
+}
